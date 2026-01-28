@@ -225,3 +225,4 @@ Année académique : 2025–2026
 ## Licence
 Ce projet est distribué sous la licence MIT.  
 Voir le fichier [license](license).
+
