@@ -1,0 +1,5 @@
+RAPPORT DES SALAIRES PAR DÉPARTEMENT
+----------------------------------
+Département : Informatique | Salaire moyen : 275000.0
+Département : RH | Salaire moyen : 210000.0
+Département : Marketing | Salaire moyen : 180000.0
